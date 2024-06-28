@@ -3,7 +3,7 @@ import React from 'react'
 const EmployeeListComponent = () => {
   return (
     <> 
-    <h1 className='d-flex justify-content-center mb-5 mt-5' >List of all Employees</h1> 
+    <h1 className='d-flex justify-content-center mb-5 mt-5' > Employees</h1> 
     
   <table class="table">
   <thead>
